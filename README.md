@@ -14,4 +14,4 @@
 - 😄 Pronouns: Alex
 - ⚡ Fun fact: I love to code only with keyboard and mouse
 
-![ticTacToe](/Games/TicTacToe.html)
+![ticTacToe](/TicTacToe.html)
