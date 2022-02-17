@@ -20,7 +20,7 @@
 ## More About Me
 
 - Currently Pursuing B.tech from [NIT Silchar](http://nits.ac.in)
-- Actively working on [HostelDevta](https://hosteldevta.live)
+- Actively working on [HostelDevta](https://hosteldevta.com)
 
 ## Let's connect: 
 
@@ -45,8 +45,8 @@
   puts "if not found, visit next time"
 ```
 
-## About [HostelDevta](https://hosteldevta.live)
+## About [HostelDevta](https://hosteldevta.com)
 
 <p align="center">
-  <img width="360" height="360" src="/Instagram%20Post%20–%201.png" href="https://hosteldevta.live">
+  <img width="360" height="360" src="/Instagram%20Post%20–%201.png" href="https://hosteldevta.com">
 </p>
