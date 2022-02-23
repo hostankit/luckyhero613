@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on Full stack development
 - 🤔 I’m looking for help in sponsoring my work and investors in my project
 - 💬 Ask me about and can take help from me in Machine learning, MEAN and PCB design works also Arduino codes too.
-- 😄 Pronouns: Alex
+- 😄 Nickname: Alex
 - ⚡ Fun fact: I love to code only with keyboard and mouse
 
 ## More About Me
