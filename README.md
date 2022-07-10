@@ -41,6 +41,9 @@
 ```python
   print("Thank you for visiting. I hope you may have found what you are looking for")
 ```
+```cpp
+  cout << "Look again, it might be here" << endl;
+```
 ```ruby
   puts "if not found, visit next time"
 ```
