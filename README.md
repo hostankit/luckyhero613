@@ -10,7 +10,7 @@ I'm [Ankit](https://linkedin.com/in/luckyhero613), I write code, develop softwar
 - [luckyhero613/text-to-handwriting](https://github.com/luckyhero613/text-to-handwriting) - Python program to convert text to handwriting
 - [luckyhero613/student_database](https://github.com/luckyhero613/student-database) - Student database management using Bash and PostGreSQL
 <br/>
-#### 👨🏽‍💼 Facts about me
+#### 👨🏽‍💼 Facts about me<br/>
 - 🔭 I’m currently working on MEAN Full Stack Web Development
 - 🌱 I’m currently learning Machine Learning, deep learning and AI
 - 👯 I’m looking to collaborate on Full stack development
