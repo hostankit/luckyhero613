@@ -10,20 +10,21 @@ I'm [Ankit](https://linkedin.com/in/luckyhero613), I write code, develop softwar
 - [luckyhero613/text-to-handwriting](https://github.com/luckyhero613/text-to-handwriting) - Python program to convert text to handwriting
 - [luckyhero613/student_database](https://github.com/luckyhero613/student-database) - Student database management using Bash and PostGreSQL
 <br/>
+
 #### 👨🏽‍💼 Facts about me<br/>
+
 - 🔭 I’m currently working on MEAN Full Stack Web Development
 - 🌱 I’m currently learning Machine Learning, deep learning and AI
 - 👯 I’m looking to collaborate on Full stack development
-<!-- - 🤔 I’m looking for help in sponsoring my work and investors in my project -->
 - 💬 Ask me about and can take help from me in Machine learning, MEAN and PCB design works also Arduino codes too.
 - ⚡ Fun fact: I love to code only with keyboard and mouse
 
-## More About Me
+#### More About Me
 
 - Currently Pursuing B.tech from [NIT Silchar](http://nits.ac.in)
 - Actively working on [HostelDevta](https://hosteldevta.com)
 
-## Let's connect: 
+#### Let's connect: 
 * [Portfolio (password: ankit)](https://ankitgupta.squarespace.com)
 * [LinkedIn](https://linkedin.com/in/@luckyhero613)
 * [Twitter](https://twitter.com/@luckyhero613)
@@ -31,7 +32,7 @@ I'm [Ankit](https://linkedin.com/in/luckyhero613), I write code, develop softwar
 * [Facebook](https://facebook.com/@luckyhero613)
 * [Email](mailto:ag7932613@gmail.com)
 
-## Codes
+#### Codes
 
 ```html
   <h1>Hello, Viewer<h1>
@@ -49,11 +50,13 @@ I'm [Ankit](https://linkedin.com/in/luckyhero613), I write code, develop softwar
   puts "if not found, visit next time"
 ```
 
-## About [HostelDevta](https://hosteldevta.com)
+#### About [HostelDevta](https://hosteldevta.com)
 
 <p align="center">
   <img width="360" height="360" src="/Instagram%20Post%20–%201.png" href="https://hosteldevta.com">
 </p>
+
+#### GitHub Summary
 
 ![](https://github.com/luckyhero613/luckyhero613/blob/master/luckyhero613_stats.svg)<br/>
 ![](https://github.com/luckyhero613/luckyhero613/blob/master/luckyhero613_lang.svg)<br/>
