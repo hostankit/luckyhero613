@@ -4,18 +4,18 @@
 I'm [Ankit](https://linkedin.com/in/luckyhero613), I write code, develop software and operate company for a living.<br/>
 
 #### 👨‍💻 Repositories I created recently<br/>
-- [luckyhero613/docublock] - DApp document management system on blockchain
-- [luckyhero613/voice-assistant-zuzu] - Python based voice assistant
-- [luckyhero613/qr-code-generator] - Python based QR generator
-- [luckyhero613/text-to-handwriting] - Python program to convert text to handwriting
-- [luckyhero613/student_database] - Student database management using Bash and PostGreSQL
-
+- [luckyhero613/docublock](https://github.com/luckyhero613/docublock) - DApp document management system on blockchain
+- [luckyhero613/voice-assistant-zuzu](https://github.com/luckyhero613/voice-assistant-zuzu) - Python based voice assistant
+- [luckyhero613/qr-code-generator](https://github.com/luckyhero613/qr-code-generator) - Python based QR generator
+- [luckyhero613/text-to-handwriting](https://github.com/luckyhero613/text-to-handwriting) - Python program to convert text to handwriting
+- [luckyhero613/student_database](https://github.com/luckyhero613/student-database) - Student database management using Bash and PostGreSQL
+<br/>
+#### 👨🏽‍💼 Facts about me
 - 🔭 I’m currently working on MEAN Full Stack Web Development
 - 🌱 I’m currently learning Machine Learning, deep learning and AI
 - 👯 I’m looking to collaborate on Full stack development
-- 🤔 I’m looking for help in sponsoring my work and investors in my project
+<!-- - 🤔 I’m looking for help in sponsoring my work and investors in my project -->
 - 💬 Ask me about and can take help from me in Machine learning, MEAN and PCB design works also Arduino codes too.
-- 😄 Nickname: Alex
 - ⚡ Fun fact: I love to code only with keyboard and mouse
 
 ## More About Me
