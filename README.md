@@ -1,13 +1,7 @@
 
-## ANKIT GUPTA
+### Hi there 👋
 
-<p align="center">
-  <img width="360" height="360" src="/pp.jpg" href="https://linkedin.com/in/luckyhero613">
-</p>
-<!--
-**luckyhero613/luckyhero613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<hr></hr>
+I'm [Ankit](https://linkedin.com/in/luckyhero613), I write code, develop software and operate company for a living.
 
 - 🔭 I’m currently working on MEAN Full Stack Web Development
 - 🌱 I’m currently learning Machine Learning, deep learning and AI
