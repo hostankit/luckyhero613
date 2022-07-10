@@ -13,10 +13,10 @@ I'm [Ankit](https://linkedin.com/in/luckyhero613), I write code, develop softwar
 
 #### 👨🏽‍💼 Facts about me<br/>
 
-- 🔭 I’m currently working on MEAN Full Stack Web Development
-- 🌱 I’m currently learning Machine Learning, deep learning and AI
-- 👯 I’m looking to collaborate on Full stack development
-- 💬 Ask me about and can take help from me in Machine learning, MEAN and PCB design works also Arduino codes too.
+- 🔭 I’m currently working on software development and design at HostelDevta
+- 🌱 I’m currently learning machine Learning and blockchain
+- 👯 I’m looking to collaborate on machine learning and blockchain projects
+- 💬 Ask me about and can take help from me in software design and development.
 - ⚡ Fun fact: I love to code only with keyboard and mouse
 
 #### More About Me
