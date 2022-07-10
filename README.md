@@ -55,12 +55,6 @@ I'm [Ankit](https://linkedin.com/in/luckyhero613), I write code, develop softwar
   puts "if not found, visit next time"
 ```
 
-#### About [HostelDevta](https://hosteldevta.com)
-
-<p align="center">
-  <img width="360" height="360" src="/Instagram%20Post%20–%201.png" href="https://hosteldevta.com">
-</p>
-
 #### GitHub Summary
 
 ![](https://github.com/luckyhero613/luckyhero613/blob/master/luckyhero613_stats.svg)<br/>
