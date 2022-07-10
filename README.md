@@ -10,6 +10,12 @@ I'm [Ankit](https://linkedin.com/in/luckyhero613), I write code, develop softwar
 - [luckyhero613/text-to-handwriting](https://github.com/luckyhero613/text-to-handwriting) - Python program to convert text to handwriting
 - [luckyhero613/student_database](https://github.com/luckyhero613/student-database) - Student database management using Bash and PostGreSQL
 
+
+#### 📄 Latest blog posts
+- [How to create custom Angular Library easily](https://luckyhero613.medium.com/how-to-create-custom-angular-library-easily-5fbc7d37f271)
+- [How to build your own free website](https://luckyhero613.medium.com/how-to-build-your-own-free-website-easily-and-as-fast-as-you-can-8e805eaac6e8)
+- [Top 10 Free developer community across the world](https://luckyhero613.medium.com/top-10-free-developer-community-across-the-world-420deec068e4)
+
 #### 👨🏽‍💼 Facts about me<br/>
 
 - 🔭 I’m currently working on software development and design at HostelDevta
