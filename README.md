@@ -1,7 +1,14 @@
 
 ### Hi there 👋
 
-I'm [Ankit](https://linkedin.com/in/luckyhero613), I write code, develop software and operate company for a living.
+I'm [Ankit](https://linkedin.com/in/luckyhero613), I write code, develop software and operate company for a living.<br/>
+
+#### 👨‍💻 Repositories I created recently<br/>
+- [luckyhero613/docublock] - DApp document management system on blockchain
+- [luckyhero613/voice-assistant-zuzu] - Python based voice assistant
+- [luckyhero613/qr-code-generator] - Python based QR generator
+- [luckyhero613/text-to-handwriting] - Python program to convert text to handwriting
+- [luckyhero613/student_database] - Student database management using Bash and PostGreSQL
 
 - 🔭 I’m currently working on MEAN Full Stack Web Development
 - 🌱 I’m currently learning Machine Learning, deep learning and AI
