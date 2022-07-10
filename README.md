@@ -9,7 +9,6 @@ I'm [Ankit](https://linkedin.com/in/luckyhero613), I write code, develop softwar
 - [luckyhero613/qr-code-generator](https://github.com/luckyhero613/qr-code-generator) - Python based QR generator
 - [luckyhero613/text-to-handwriting](https://github.com/luckyhero613/text-to-handwriting) - Python program to convert text to handwriting
 - [luckyhero613/student_database](https://github.com/luckyhero613/student-database) - Student database management using Bash and PostGreSQL
-<br/>
 
 #### 👨🏽‍💼 Facts about me<br/>
 
