@@ -50,3 +50,7 @@
 <p align="center">
   <img width="360" height="360" src="/Instagram%20Post%20–%201.png" href="https://hosteldevta.com">
 </p>
+
+![](https://github.com/luckyhero613/luckyhero613/blob/master/luckyhero613_stats.svg)<br/>
+![](https://github.com/luckyhero613/luckyhero613/blob/master/luckyhero613_lang.svg)<br/>
+![](https://github.com/luckyhero613/luckyhero613/blob/master/luckyhero613_streak.svg)<br/>
