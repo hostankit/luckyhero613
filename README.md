@@ -12,8 +12,10 @@ I'm [Ankit](https://linkedin.com/in/luckyhero613), I write code, develop softwar
 - [luckyhero613/student_database](https://github.com/luckyhero613/student-database) - Student database management using Bash and PostGreSQL
 
 #### 👷🏽 Projects I have deployed recently<br/>
-- [HostelDevta Business v2022](https://business.hosteldevta.com) - Business Platform of HostelDevta for Hostels & PGs Managers
+- [HostelDevta](https://hosteldevta.com) - Hostels & paying guest booking marketplace
+- [HostelDevta Business v2022](https://business.hosteldevta.com) - Business platform of HostelDevta for hostels & PGs Managers
 - [HostelDevta Help Center](https://help.hosteldevta.com) - Help Center(docs, faqs, feedback, chat, contact) of HostelDevta
+- [HostelDevta Hostelhub v2022](https://hostelhub.hosteldevta.com) - Hostelhub simplifies relationship with customers
 
 #### 📄 Latest blog posts
 - [How to create custom Angular Library easily](https://luckyhero613.medium.com/how-to-create-custom-angular-library-easily-5fbc7d37f271)
