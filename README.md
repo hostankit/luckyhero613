@@ -14,6 +14,7 @@ I'm [Ankit](https://linkedin.com/in/luckyhero613), I write code, develop softwar
 #### 👷🏽 Projects I have deployed recently<br/>
 - [HostelDevta](https://hosteldevta.com) - Hostels & paying guest booking marketplace
 - [HostelDevta Business v2022](https://business.hosteldevta.com) - Business platform of HostelDevta for hostels & PGs Managers
+- [HostelDevta Business v2022 Business Management Platform](https://dashboard.hosteldevta.com) - Dashboard System Business platform of HostelDevta for hostels & PGs Managers
 - [HostelDevta Help Center](https://help.hosteldevta.com) - Help Center(docs, faqs, feedback, chat, contact) of HostelDevta
 - [HostelDevta Hostelhub v2022](https://hostelhub.hosteldevta.com) - Hostelhub simplifies relationship with customers
 
